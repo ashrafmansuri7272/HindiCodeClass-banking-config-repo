@@ -48,5 +48,3 @@ management:
           - health
           - info
           - prometheus
-
-
